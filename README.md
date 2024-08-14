@@ -1,2 +1,2 @@
 # Practicing Erlang
-Programming Practice for Learning the Erlang Language
+Programming practice to learn the Erlang language
